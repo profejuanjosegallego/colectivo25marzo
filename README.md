@@ -1,4 +1,5 @@
 # colectivo25marzo
 repo colectivo martes noche
 Pablo Andrés Mora Durango
-Valeria Salazar Hernandez 
+Valeria Salazar Hernandez
+Daniel Mazo Alarcón
